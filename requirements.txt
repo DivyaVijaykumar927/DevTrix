@@ -1,0 +1,6 @@
+Tech Stacks (Simplified):
+1.Gradio - For creating a user-friendly web interface to interact with the code generator.
+2.LangChain - To manage conversations and effectively handle prompt processing.
+3.Ollama - Runs the language model locally for quick and secure code generation.
+4.Python (Requests Module) - Facilitates communication between the interface and the backend.
+5.JSON - Used for easy data exchange between different components.
